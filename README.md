@@ -1,8 +1,6 @@
 ## This is Readme 
 
 
-say sth to me. rename repo
-
-Updated at locally 
+Update something on github before rebase 
 
 
